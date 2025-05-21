@@ -34,4 +34,4 @@ Selected file: myfile.txt
 MD5 Hash: d41d8cd98f00b204e9800998ecf8427e
 ```
 ### 📁 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the [MIT License](LICENSE).
